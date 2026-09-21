@@ -1,5 +1,5 @@
 # Sistema de Restaurante — restaurante_app (Componentes y contenedores)
-
+**Nombre:** Anthony Jorlayn Espin Vintimilla
 **Asignatura:** Programación Orientada a Objetos
 **Tema:** Semana 14 — Componentes y contenedores en Tkinter
 
